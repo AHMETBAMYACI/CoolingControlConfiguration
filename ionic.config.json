@@ -1,0 +1,7 @@
+{
+  "name": "CoolingControl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

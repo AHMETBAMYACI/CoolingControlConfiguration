@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "CoolingControl",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
